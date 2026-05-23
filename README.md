@@ -1,7 +1,3 @@
-# 🧠 Como usar este README Interativo
-
-> **Este README usa HTML puro dentro do GitHub** — algumas animações funcionam, mas timers e JS interativo precisam de uma página externa. Veja as instruções abaixo.
-
 ---
 
 <!-- HEADER ANIMADO -->
